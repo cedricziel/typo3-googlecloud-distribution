@@ -1,0 +1,7 @@
+MYSQL_ROOT_PASSWORD=Iish2ahgh4Beesaexooph5Geijo3ph
+MYSQL_PASSWORD=Iish2ahgh4Beesaexooph5Geijo3ph
+MYSQL_USER=typo3
+MYSQL_DATABASE=typo3
+TYPO3_ENABLE_INSTALL_TOOL=1
+TYPO3_ENABLE_FIRST_INSTALL=1
+DATABASE_URL=mysql://typo3:Iish2ahgh4Beesaexooph5Geijo3ph@db:3306/typo3
