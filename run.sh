@@ -30,4 +30,4 @@ else
   touch /app/web/typo3conf/ENABLE_INSTALL_TOOL
 fi
 
-exec /start web
+exec /start "web"

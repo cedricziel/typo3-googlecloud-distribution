@@ -7,6 +7,7 @@ web:
     - "8000:8000"
   links:
     - db
+  command: "/run.sh"
 
 db:
   image: mysql:5.5
