@@ -1,5 +1,5 @@
-FROM progrium/buildstep
+FROM tutum/buildstep
 EXPOSE 8000
 
-ADD run.sh /run.sh
-CMD ["exec", "run.sh"]
+ENV PORT 8000
+CMD ["/start", "web"]
